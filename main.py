@@ -12,7 +12,7 @@ if __name__ == "__main__":
 RECIPIENT = "bunce627@gmail.com"
 SENDER = "bisect@questcraft.org"
 AWS_REGION = "us-east-1"
-SUBJECT = "test"
+SUBJECT = "QuestCraft x Bisect Hosting"
 BODY_TEXT = (
     "test"
 )
